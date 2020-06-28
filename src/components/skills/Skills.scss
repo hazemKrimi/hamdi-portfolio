@@ -1,0 +1,22 @@
+@import '../../App.scss';
+
+#skills {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    margin: 10% 20%;
+
+    h2 {
+        font-size: 40px;
+        font-weight: normal;
+    }
+
+    #skill-stats {
+        margin-top: 70px;
+
+        h4 {
+            font-size: 20px;
+            font-weight: normal;
+        }
+    }
+}

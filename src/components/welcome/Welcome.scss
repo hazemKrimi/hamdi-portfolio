@@ -1,0 +1,47 @@
+@import '../../App.scss';
+
+#welcome {
+    height: 100vh;
+    width: 90vw;
+
+    .container {
+        position: absolute;
+        top: 35%;
+        left: 12.5%;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row-gap: 3rem;
+
+        h3 {
+            font-weight: 200;
+            color: #D8B269;
+        }
+
+        #description {
+            display: grid;
+            grid-row-gap: .5rem;
+            align-items: center;
+            justify-items: flex-start;
+
+            h4 {
+                font-weight: 200;
+                color: #B8BCBE;
+            }
+
+            h1 {
+                font-weight: 600;
+                font-size: 3rem;
+
+                span {
+                    border: 3px solid #D8B269;
+                    box-sizing: content-box;
+                    padding: 3px 30px 0px 1px;
+                }
+            }
+
+            h3 {
+                font-family: "Work Sans", Montserrat;
+            }
+        }
+    }
+}
