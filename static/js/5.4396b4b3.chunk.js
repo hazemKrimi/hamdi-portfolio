@@ -1,0 +1,2 @@
+(this["webpackJsonphamdi-halleb"]=this["webpackJsonphamdi-halleb"]||[]).push([[5],{18:function(t,a,n){},25:function(t,a,n){"use strict";n.r(a);var e=n(0),r=n.n(e),c=n(2);n(18);a.default=function(t){var a=t.children,n=Object(c.c)({from:{transform:"translateX(200%)",opacity:0},to:{transform:"translateX(0%)",opacity:1},config:{velocity:10}});return r.a.createElement(c.a.div,{id:"background",style:n},a)}}}]);
+//# sourceMappingURL=5.4396b4b3.chunk.js.map
